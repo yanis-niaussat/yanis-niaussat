@@ -1,9 +1,9 @@
 <h3 align="center">Data Science, Management & Software Architecture Student</h3>
 
-- (start_span)🔭 **Current Project:** [Full-Stack Karting Game](https://github.com/yanis-niaussat/projet-web-24-25) using Deno, Oak, and JWT(end_span).
-- (start_span)🛠️ **System Programming:** Developed a TCP/IP Messaging Application in C featuring channel management and file sharing(end_span).
-- (start_span)🌱 **Learning Focus:** Advancing in Data Structures, Algorithms, and Software Architecture at Polytech Montpellier(end_span).
-- (start_span)(start_span)☁️ **Web Tech:** Proficient in TypeScript, Node.js, and Liquid (Shopify)(end_span)(end_span).
+- 🔭 **Current Project:** [Full-Stack Karting Game](https://github.com/yanis-niaussat/projet-web-24-25) using Deno, Oak, and JWT.
+- 🛠️ **System Programming:** Developed a TCP/IP Messaging Application in C featuring channel management and file sharing.
+- 🌱 **Learning Focus:** Advancing in Data Structures, Algorithms, and Software Architecture at Polytech Montpellier.
+- ☁️ **Web Tech:** Proficient in TypeScript, Node.js, and Liquid (Shopify).
 
 <h3 align="center">Languages & Tech Stack</h3>
 
